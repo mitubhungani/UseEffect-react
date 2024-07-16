@@ -1,0 +1,13 @@
+/* Styler.css */
+.highlighted {
+    background-color: red;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  .default {
+    background-color: green;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
